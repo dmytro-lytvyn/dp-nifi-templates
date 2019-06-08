@@ -2,7 +2,7 @@
 <template encoding-version="1.2">
     <description></description>
     <groupId>0dca0a99-016a-1000-4248-a4b2297f8351</groupId>
-    <name>Kafka to HDFS 2019-06-07</name>
+    <name>Kafka to HDFS 2019-06-08</name>
     <snippet>
         <controllerServices>
             <id>2aab3a0e-683d-3f3f-0000-000000000000</id>
@@ -734,7 +734,7 @@
                             </entry>
                             <entry>
 <key>topic</key>
-<value>events,events_default</value>
+<value>events_app_button,events_app_instance,events_app_service,events_device,events_website_button,events_website_link,events_website_page</value>
                             </entry>
                             <entry>
 <key>topic_type</key>
@@ -1325,5 +1325,5 @@
             <variables/>
         </processGroups>
     </snippet>
-    <timestamp>06/07/2019 15:07:25 CEST</timestamp>
+    <timestamp>06/08/2019 22:26:03 CEST</timestamp>
 </template>
